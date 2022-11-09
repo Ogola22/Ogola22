@@ -1,5 +1,8 @@
 - 👋 Hi, I’m Brian ogola
-- 👀 I’m interested in programming
+- 👀 I’m interested in programming 
 - 🌱 I’m currently learning Node Js
 - 💞️ I’m looking to collaborate on a JavaScript project
-- 📫 How to reach me: Click the link to reach my site: https://brian-ogola.netlify.app  or WhatsAAp on +254(0)700458981
+- 📫 How to reach me: Click the link to reach my site: https://brian-ogola.netlify.app 
+-     WhatsAAp on +254(0)700458981
+-     I'm a photographer and a designer 
+-     I enjoy playing pool game
